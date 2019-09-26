@@ -1,0 +1,15 @@
+{
+    "name": "luuxuanba/laravel",
+    "description": "Instagram's private API for PHP",
+   
+   
+    "authors": [
+        {
+            "name": "ba",
+            "email": "luuxuanba@gmal.com",
+            "role": "Founder"
+        },
+      
+    ],
+    
+}
